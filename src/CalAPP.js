@@ -21,6 +21,7 @@ const calculate=()=>{
 
 
     return(<div className="calc">
+        <h1>My Calculator</h1>
         <input type="text" placeholder="0"  id="answer"   value={result}/>
 <input type="button" value="9"   className="button" onClick={clickHandler}/>
 <input type="button" value="8" className="button" onClick={clickHandler}/>
