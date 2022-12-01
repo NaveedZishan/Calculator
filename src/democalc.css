@@ -1,0 +1,25 @@
+.calc{
+width: 320px;
+margin: 100px auto;
+}
+
+#answer{
+    background-color: #e2e2e2;
+    width: 296px;
+    height: 35px;
+    text-align: right;
+    font-size: 45px;
+    padding: 10px;
+}
+
+.button{
+    background: orange;
+height: 80px;
+width: 80px;
+
+
+}
+.button1{
+width: 160px;
+background: green;
+}

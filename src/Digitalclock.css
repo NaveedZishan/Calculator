@@ -1,0 +1,14 @@
+.main-div{
+box-sizing: border-box;
+margin: 300px ;
+background-color:blue;
+height: 300px;
+width: 200px;
+
+}
+
+ #h1{
+
+text-align: center;
+margin-top: 30px;
+}

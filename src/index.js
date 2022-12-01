@@ -1,8 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import Digitalclock from './Digitalclock';
+// import CalC from './DemoCalApp';
+// import NDemoAudio from './NDemoAudio';
+// import Temp from './TempApp';
+//  import DemoAudio from './DEdemoAudio';
+// import DemoAudio from './DEdemoAudio';
+// import DemoAudio from './DemoAudio';
+// import AppAudio from './AppAudio';
 // import './index.css';
 // import App from './App';
- import APPP from './CalAPP';
+//  import APPP from './CalAPP';
+
 // import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -10,7 +19,14 @@ root.render(
   <React.StrictMode>
     
     {/* <App /> */}
-    <APPP/>
+    {/* <APPP/> */}
+    {/* <AppAudio/> */}
+    {/* <DemoAudio/>   */}
+    {/* <DemoAudio/> */}
+    {/* <Temp/> */}
+    {/* <NDemoAudio/> */}
+    {/* <CalC/> */}
+    <Digitalclock/>
   </React.StrictMode>
 );
 
