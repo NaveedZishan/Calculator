@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Digitalclock from './Digitalclock';
+import Interview from './Interview';
+// import Digitalclock from './Digitalclock';
 // import CalC from './DemoCalApp';
 // import NDemoAudio from './NDemoAudio';
 // import Temp from './TempApp';
@@ -9,6 +10,7 @@ import Digitalclock from './Digitalclock';
 // import DemoAudio from './DemoAudio';
 // import AppAudio from './AppAudio';
 // import './index.css';
+// import Parent from './stateManagmt/Parent';
 // import App from './App';
 //  import APPP from './CalAPP';
 
@@ -26,7 +28,9 @@ root.render(
     {/* <Temp/> */}
     {/* <NDemoAudio/> */}
     {/* <CalC/> */}
-    <Digitalclock/>
+    {/* <Digitalclock/> */}
+    {/* <Parent/> */}
+    <Interview/>
   </React.StrictMode>
 );
 
